@@ -11,7 +11,7 @@ Introducing with Assets - App Icons and other assets
 * How work with Assets.xcassets 
 * What's the difference between 1x, 2x and 3x in App Icon and images
 
-## Screenshots 
+## Screenshots from app
 
 ### Main.storyboard Design(Interface Builder)
 ![Screen Shot 2022-02-05 at 5 32 50 PM](https://user-images.githubusercontent.com/56804253/152661240-c52a2b61-1e07-4c50-81b6-e68642883b38.png)
