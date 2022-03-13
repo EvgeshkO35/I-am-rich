@@ -4,6 +4,10 @@ Introducing with Xcode Storyboard and Interface Builder
 
 Introducing with Assets - App Icons and other assets
 
+## My goal
+
+Understand how work in Xcode and how make UI inside Interface Builder. And also how work with Assets - App Icons and images.
+
 ## What I learned from this module
 
 * What is Xcode Storyboard and what mean Interface Builder
@@ -18,8 +22,5 @@ Introducing with Assets - App Icons and other assets
 ### App Icon
 ![Screen Shot 2022-02-05 at 5 34 28 PM](https://user-images.githubusercontent.com/56804253/152661287-10e754b2-ccf6-4bf7-ba1a-88873a4cab0e.png)
 
-## My goal
-
-Understand how work in Xcode and how make UI inside Interface Builder. And also how work with Assets - App Icons and images.
 
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
